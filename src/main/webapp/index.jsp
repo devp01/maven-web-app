@@ -7,6 +7,6 @@
   
   <h2> It is interesting to see the power of Jenkins. </h2>
   <h3> Thank you for listening to my session </h3>
-  <h3> Please use code ABCDE </h3>
+  <h3> Welcome to the developer's website. We are trying out latest developments in this site. </h3>
 </body>
 </html>
